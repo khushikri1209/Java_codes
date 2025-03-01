@@ -1,5 +1,5 @@
 import java.util.*;
-public class J02Starpattern1 {
+public class J01Starpattern1 {
     public static void main(String[]args){
         int rows=5;
         for(int i=0;i<=rows;++i){
