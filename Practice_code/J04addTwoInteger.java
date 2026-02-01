@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class J04addTwoInteger {
+public class J04AddTwoInteger {
     public static void main(String[] args) {
         int first = 10;
         int second = 20;
